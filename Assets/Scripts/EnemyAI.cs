@@ -43,12 +43,6 @@ public class EnemyAI : MonoBehaviour
         player = GameObject.FindGameObjectWithTag("Player").transform;
         playerStats = player.GetComponent<PlayerStats>();
         currentHealth = maxHealth;
-
-        if (isBoss)
-        {
-            agent.enabled = false;
-            animator.Play("Seated_Idle");
-        }
     }
 
     private void Update()
@@ -143,7 +137,7 @@ public class EnemyAI : MonoBehaviour
         yield return new WaitForSeconds(Random.Range(wanderingWaitTimeMin, wanderingWaitTimeMax));
 
         Vector3 nextDestination = transform.position;
-        nextDestination += Random.Range(wanderingDistanceMin, wanderingDistanceMax) * 
+        nextDestination += Random.Range(wanderingDistanceMin, wanderingDistanceMax) *
                           new Vector3(Random.Range(-1f, 1), 0f, Random.Range(-1f, 1f)).normalized;
 
         if (NavMesh.SamplePosition(nextDestination, out NavMeshHit hit, wanderingDistanceMax, NavMesh.AllAreas))
@@ -197,5 +191,29 @@ public class EnemyAI : MonoBehaviour
 
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRadius);
+    }
+    
+    private void OnStandUpComplete()
+    {
+        // Logique supplémentaire après s'être levé
+        agent.enabled = true;
+        animator.SetBool("IsStanding", true);
+    }
+
+    private void DealDamage()
+    {
+        if (Vector3.Distance(player.position, transform.position) <= attackRadius)
+        {
+            playerStats.TakeDamage(damageDealt);
+        }
+    }
+
+    private void OnAttackComplete()
+    {
+        isAttacking = false;
+        if (agent.enabled)
+        {
+            agent.isStopped = false;
+        }
     }
 }
