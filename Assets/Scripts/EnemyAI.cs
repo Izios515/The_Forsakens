@@ -24,11 +24,6 @@ public class EnemyAI : MonoBehaviour
     [SerializeField] private float wanderingWaitTimeMax;
     [SerializeField] private float wanderingDistanceMin;
     [SerializeField] private float wanderingDistanceMax;
-
-    [Header("Boss Throne Settings")]
-    [SerializeField] private bool isBoss = false;
-    [SerializeField] private GameObject throne;
-
     private Transform player;
     private PlayerStats playerStats;
     private float currentHealth;
@@ -50,16 +45,6 @@ public class EnemyAI : MonoBehaviour
         if (isDead) return;
 
         bool playerInRange = Vector3.Distance(player.position, transform.position) < detectionRadius && !playerStats.isDead;
-
-        if (isBoss && isSeated)
-        {
-            if (playerInRange && !initialDetectionDone)
-            {
-                StandUpFromThrone();
-                initialDetectionDone = true;
-            }
-            return;
-        }
 
         if (playerInRange)
         {
@@ -165,25 +150,6 @@ public class EnemyAI : MonoBehaviour
         isAttacking = false;
     }
 
-    private void StandUpFromThrone()
-    {
-        isSeated = false;
-        animator.SetTrigger("StandUp");
-        StartCoroutine(EnableNavMeshAfterAnimation());
-
-        if (throne != null)
-        {
-            throne.GetComponent<Collider>().enabled = false;
-        }
-    }
-
-    private IEnumerator EnableNavMeshAfterAnimation()
-    {
-        yield return new WaitForSeconds(2f);
-        agent.enabled = true;
-        animator.SetBool("IsStanding", true);
-    }
-
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.yellow;
@@ -191,13 +157,6 @@ public class EnemyAI : MonoBehaviour
 
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRadius);
-    }
-    
-    private void OnStandUpComplete()
-    {
-        // Logique supplémentaire après s'être levé
-        agent.enabled = true;
-        animator.SetBool("IsStanding", true);
     }
 
     private void DealDamage()
