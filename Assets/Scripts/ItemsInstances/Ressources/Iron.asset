@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fca79c4638662064a898de39b6ecc42a, type: 3}
+  m_Name: Iron
+  m_EditorClassIdentifier: 
+  name: Iron
+  description: Iron
+  visual: {fileID: 0}
+  prefab: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+  stackable: 0
+  maxStack: 0
+  healthEffect: 0
+  hungerEffect: 0
+  thirstEffect: 0
+  armorPoints: 0
+  attackPoints: 0
+  itemType: 0
+  equipmentType: 0
