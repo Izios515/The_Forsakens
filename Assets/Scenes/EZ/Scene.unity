@@ -32526,7 +32526,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1925837952}
   m_HandleRect: {fileID: 1925837951}
   m_Direction: 2
-  m_Value: 1
+  m_Value: 0
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -62204,9 +62204,9 @@ MonoBehaviour:
   craftingSystem: {fileID: 690569726}
   buildSystem: {fileID: 1808952807}
   content:
-  - itemData: {fileID: 11400000, guid: 860e972762884fe4c8c0454d24f17a8a, type: 2}
+  - itemData: {fileID: 11400000, guid: 273e7a42a048383449bb6e4bf570ddaf, type: 2}
     count: 99
-  - itemData: {fileID: 11400000, guid: 1ce1498f5de948b47a3ac30ae9ba482f, type: 2}
+  - itemData: {fileID: 11400000, guid: a3f497cf6b8cf9f4a8a25581a51e5078, type: 2}
     count: 99
   inventoryPanel: {fileID: 1896388386}
   inventorySlotsParent: {fileID: 1521099701}
