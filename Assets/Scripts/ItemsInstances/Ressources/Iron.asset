@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Iron
   description: Iron
-  visual: {fileID: 0}
+  visual: {fileID: 21300000, guid: 7e082cc2cf2a4433d85e388c6bf94234, type: 3}
   prefab: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
   stackable: 0
   maxStack: 0

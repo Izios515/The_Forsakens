@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ab95c1576ddbd149bd53930112bef99, type: 3}
   m_Name: IronChestRecipe
   m_EditorClassIdentifier: 
-  craftableItem: {fileID: 11400000, guid: 93a7eb3ac0f97834d843ea0a595e11fa, type: 2}
+  craftableItem: {fileID: 11400000, guid: e49cd1fd98f640543bbfba7ff902a10e, type: 2}
   requiredItems:
-  - itemData: {fileID: 11400000, guid: 1ae7bbd869268de43aca93f2afad0c9a, type: 2}
+  - itemData: {fileID: 11400000, guid: e49cd1fd98f640543bbfba7ff902a10e, type: 2}
     count: 5

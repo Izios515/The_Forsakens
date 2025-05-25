@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ab95c1576ddbd149bd53930112bef99, type: 3}
   m_Name: BandageRecipe
   m_EditorClassIdentifier: 
-  craftableItem: {fileID: 11400000, guid: 1c7d679917858d845a426f1d464c03e0, type: 2}
+  craftableItem: {fileID: 11400000, guid: 46b771de5e387574c9474fded8ccc4d8, type: 2}
   requiredItems:
-  - itemData: {fileID: 11400000, guid: 9ecae39589b5d2e4a822836ec41de326, type: 2}
+  - itemData: {fileID: 11400000, guid: 242e5bcc903324f4da1fad7050c200bc, type: 2}
+    count: 3
+  - itemData: {fileID: 11400000, guid: 273e7a42a048383449bb6e4bf570ddaf, type: 2}
     count: 3

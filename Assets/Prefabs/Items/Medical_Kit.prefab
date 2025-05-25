@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 155335202167249870}
   - component: {fileID: 4494506371051402423}
   - component: {fileID: 8826968324551493811}
-  - component: {fileID: 256479230087824706}
   m_Layer: 6
   m_Name: Medical_Kit
   m_TagString: Item
@@ -115,16 +114,3 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &256479230087824706
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1812453638202030619}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 617eab301ccd55b47a73707f02f3ddb6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemData: {fileID: 11400000, guid: 6a490be53c998e249b2ca5fa3405cd5d, type: 2}

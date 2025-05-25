@@ -1708,7 +1708,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1127450730860520516, guid: b84d7ca3927758646a65731cc107aa76, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 33
       objectReference: {fileID: 0}
     - target: {fileID: 1127450730860520516, guid: b84d7ca3927758646a65731cc107aa76, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2580,7 +2580,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1438546959266459337, guid: 60770bdb4dc667c45bea53db0339dc05, type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 46
       objectReference: {fileID: 0}
     - target: {fileID: 1438546959266459337, guid: 60770bdb4dc667c45bea53db0339dc05, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3930,7 +3930,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 34
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4509,6 +4509,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 116235568}
   m_Mesh: {fileID: 4300000, guid: 08370ae33fad3da4a8357631f8a9f5ae, type: 3}
+--- !u!1001 &123414863
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 225.53885
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 64.485245
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 110.777435
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1 &127246558
 GameObject:
   m_ObjectHideFlags: 0
@@ -5088,6 +5145,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2208419826181695226, guid: 849a5190185df9748a5e6de282d461b4, type: 3}
   m_PrefabInstance: {fileID: 138858720}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &148426324
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 215.30264
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 69.121925
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 150.44499
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1 &150601682
 GameObject:
   m_ObjectHideFlags: 0
@@ -8726,6 +8840,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 265378153}
   m_Mesh: {fileID: 4300000, guid: 361dbd13abe581240910f764f838d930, type: 3}
+--- !u!1001 &265392984
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 243.35498
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 52.01879
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.281494
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1001 &266101970
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9555,7 +9726,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6746833555131993907, guid: 44ed12a126389004ca8f08d4c48d76ef, type: 3}
       propertyPath: m_RootOrder
-      value: 20
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 6746833555131993907, guid: 44ed12a126389004ca8f08d4c48d76ef, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12352,7 +12523,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 38
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12859,6 +13030,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 355453158}
   m_Mesh: {fileID: 4300000, guid: 08370ae33fad3da4a8357631f8a9f5ae, type: 3}
+--- !u!1001 &364582116
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 272.84964
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 50.03713
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 92.54041
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1001 &365234890
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13074,6 +13302,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 371713752}
   m_Mesh: {fileID: 4300000, guid: 08370ae33fad3da4a8357631f8a9f5ae, type: 3}
+--- !u!1001 &376639009
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 259.7508
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 52.846184
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 116.48636
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1001 &380458220
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14061,7 +14346,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 29
+  m_RootOrder: 50
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &417274811
 GameObject:
@@ -15616,7 +15901,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 33
+  m_RootOrder: 54
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &447749586
 PrefabInstance:
@@ -17172,7 +17457,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19236,68 +19521,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2208419826181695226, guid: 849a5190185df9748a5e6de282d461b4, type: 3}
   m_PrefabInstance: {fileID: 544185494}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &545622885
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1193940784}
-    m_Modifications:
-    - target: {fileID: 184622, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_Name
-      value: PineTree (15)
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_RootOrder
-      value: 306
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 254.07455
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 90.155655
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 461.5633
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9972609
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.052264232
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.052264232
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0027390525
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
---- !u!4 &545622886 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-  m_PrefabInstance: {fileID: 545622885}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &550236581
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19376,7 +19599,7 @@ PrefabInstance:
       objectReference: {fileID: 15600000, guid: 51f8b159bd9ca9f4fa31d769bf405253, type: 2}
     - target: {fileID: 4569154136937305814, guid: e677546addb77764aa988c6f885fb9f8, type: 3}
       propertyPath: m_RootOrder
-      value: 22
+      value: 47
       objectReference: {fileID: 0}
     - target: {fileID: 4569154136937305814, guid: e677546addb77764aa988c6f885fb9f8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20235,7 +20458,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 480080, guid: 445a5c29e7f715947b713a753f242af0, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 41
       objectReference: {fileID: 0}
     - target: {fileID: 480080, guid: 445a5c29e7f715947b713a753f242af0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20437,6 +20660,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 585425355}
   m_Mesh: {fileID: 4300000, guid: 08370ae33fad3da4a8357631f8a9f5ae, type: 3}
+--- !u!1001 &589386267
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 222.08702
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 61.87577
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 143.3049
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1 &596539279
 GameObject:
   m_ObjectHideFlags: 0
@@ -21203,7 +21483,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4152673618298626054, guid: d94b0dca82ca8e74c832d120f965d1ce, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 27
       objectReference: {fileID: 0}
     - target: {fileID: 4152673618298626054, guid: d94b0dca82ca8e74c832d120f965d1ce, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22091,7 +22371,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5686390654662516807, guid: 35e35b6e07520894c9159bd73fc9eecf, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 32
       objectReference: {fileID: 0}
     - target: {fileID: 5686390654662516807, guid: 35e35b6e07520894c9159bd73fc9eecf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23097,7 +23377,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 30
+  m_RootOrder: 51
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &690569725
 MonoBehaviour:
@@ -23165,6 +23445,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   availableRecipes:
   - {fileID: 11400000, guid: d617762a80c39fe4b8c7738edd532b21, type: 2}
+  - {fileID: 11400000, guid: 3b372577b25b1e041960c630dcb5c183, type: 2}
+  - {fileID: 11400000, guid: 9979541254c87384eae3d9276f69925c, type: 2}
+  - {fileID: 11400000, guid: c51751f67b4c685479ee53278bfd5d16, type: 2}
+  - {fileID: 11400000, guid: 8381fba582a0f3d4595eb1797f56d98b, type: 2}
+  - {fileID: 11400000, guid: 5f1a03676baaf2a48997000c8639f337, type: 2}
+  - {fileID: 11400000, guid: d6bb359ba2ac1ef4eaed607705b8fe1d, type: 2}
+  - {fileID: 11400000, guid: 808d88ef8b3500b49a2635346dcdac53, type: 2}
   recipeUiPrefab: {fileID: 2601141412277302037, guid: 63b1d72c88a41104b9ffdbc419fbb53c, type: 3}
   recipesParent: {fileID: 443568560}
   openCraftPanelInput: 99
@@ -24127,7 +24414,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6041406423778879782, guid: 0188a647037119d4ca2aba5580945749, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 28
       objectReference: {fileID: 0}
     - target: {fileID: 6041406423778879782, guid: 0188a647037119d4ca2aba5580945749, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25496,7 +25783,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29441,7 +29728,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 32
+  m_RootOrder: 53
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!224 &844697967 stripped
 RectTransform:
@@ -30668,7 +30955,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 31
+  m_RootOrder: 52
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &876232162
 GameObject:
@@ -31284,6 +31571,63 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 879729774}
   m_CullTransparentMesh: 1
+--- !u!1001 &880790433
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 203.96776
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 80.348625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 138.7031
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1 &885652180
 GameObject:
   m_ObjectHideFlags: 0
@@ -31823,6 +32167,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 893109603}
   m_Mesh: {fileID: 4300000, guid: 361dbd13abe581240910f764f838d930, type: 3}
+--- !u!1001 &898859418
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 231.84758
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 59.11451
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 141.4466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1 &898972615
 GameObject:
   m_ObjectHideFlags: 0
@@ -31985,7 +32386,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 39
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32542,7 +32943,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4542893045298105535, guid: fbb9b2bb6a517964bb1b125cd30bd7d5, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 4542893045298105535, guid: fbb9b2bb6a517964bb1b125cd30bd7d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33938,68 +34339,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 954089550}
   m_Mesh: {fileID: 4300000, guid: 08370ae33fad3da4a8357631f8a9f5ae, type: 3}
---- !u!1001 &955048086
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1193940784}
-    m_Modifications:
-    - target: {fileID: 184622, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_Name
-      value: PineTree (16)
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_RootOrder
-      value: 305
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 256.87994
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 83.31914
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 451.06995
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9972609
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.052264232
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.052264232
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0027390525
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
---- !u!4 &955048087 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-  m_PrefabInstance: {fileID: 955048086}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &957150161
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38006,6 +38345,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1019644710}
   m_Mesh: {fileID: 4300000, guid: 361dbd13abe581240910f764f838d930, type: 3}
+--- !u!1001 &1024348115
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 242.41745
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 65.58551
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.47111
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1 &1025753516
 GameObject:
   m_ObjectHideFlags: 0
@@ -38571,7 +38967,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -39349,68 +39745,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1070729804}
   m_Mesh: {fileID: 4300000, guid: 08370ae33fad3da4a8357631f8a9f5ae, type: 3}
---- !u!1001 &1071831817
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1193940784}
-    m_Modifications:
-    - target: {fileID: 184622, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_Name
-      value: PineTree (17)
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_RootOrder
-      value: 304
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 254.16074
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 80.82093
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 442.49896
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9972609
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.052264232
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.052264232
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0027390525
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
---- !u!4 &1071831818 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 405966, guid: c7bcf19bbfa57ed4ea9147dff66d5542, type: 3}
-  m_PrefabInstance: {fileID: 1071831817}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1073332492
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41081,7 +41415,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4950375684657214669, guid: f0ebb1f0c96544349a2a74aec77cb91c, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 29
       objectReference: {fileID: 0}
     - target: {fileID: 4950375684657214669, guid: f0ebb1f0c96544349a2a74aec77cb91c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -43733,9 +44067,6 @@ Transform:
   - {fileID: 1859374178}
   - {fileID: 989012595}
   - {fileID: 1019644711}
-  - {fileID: 1071831818}
-  - {fileID: 955048087}
-  - {fileID: 545622886}
   - {fileID: 1757570075}
   - {fileID: 56663336}
   - {fileID: 188905086}
@@ -44583,6 +44914,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2208419826181695226, guid: 849a5190185df9748a5e6de282d461b4, type: 3}
   m_PrefabInstance: {fileID: 1209164181}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1209934157
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 231.10896
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 73.064674
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.43962
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1001 &1213659328
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49814,7 +50202,7 @@ Transform:
   - {fileID: 320950396}
   - {fileID: 266101971}
   m_Father: {fileID: 0}
-  m_RootOrder: 34
+  m_RootOrder: 55
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1387451840
 GameObject:
@@ -50980,7 +51368,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2204145280341546697, guid: 8495c0a16906041419297b3e33906178, type: 3}
       propertyPath: m_RootOrder
-      value: 18
+      value: 43
       objectReference: {fileID: 0}
     - target: {fileID: 2204145280341546697, guid: 8495c0a16906041419297b3e33906178, type: 3}
       propertyPath: m_LocalPosition.x
@@ -52820,7 +53208,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5772663983435304582, guid: cf0a433cfa73aee409009ebf0afb35c9, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 31
       objectReference: {fileID: 0}
     - target: {fileID: 5772663983435304582, guid: cf0a433cfa73aee409009ebf0afb35c9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -55238,7 +55626,7 @@ RectTransform:
   - {fileID: 1379376028}
   - {fileID: 1858601292}
   m_Father: {fileID: 0}
-  m_RootOrder: 28
+  m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -56014,6 +56402,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1534501568}
   m_Mesh: {fileID: 4300000, guid: 08370ae33fad3da4a8357631f8a9f5ae, type: 3}
+--- !u!1001 &1541390953
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 238.2165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 75.83741
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 91.574265
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1 &1544743580
 GameObject:
   m_ObjectHideFlags: 0
@@ -56382,6 +56827,120 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
   m_PrefabInstance: {fileID: 1550402709}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1553691300
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 217.8741
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 82.27034
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 100.68165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+--- !u!1001 &1553724624
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 205.5017
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 75.94844
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 151.87859
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1001 &1554779726
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -59264,7 +59823,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -59602,6 +60161,120 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1629868026}
   m_Mesh: {fileID: 4300000, guid: d01883e876066d54280ca7ceb187f173, type: 3}
+--- !u!1001 &1630073763
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 211.47876
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 77.19504
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 118.22281
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+--- !u!1001 &1636176863
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 256.90222
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 56.850246
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 100.59862
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1001 &1637259870
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -61062,7 +61735,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -61547,7 +62220,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 27
+  m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1695160467
 MonoBehaviour:
@@ -61859,6 +62532,63 @@ PrefabInstance:
       objectReference: {fileID: 1695160467}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e200f17ed73e4e84ba018c4dd25387a1, type: 3}
+--- !u!1001 &1698051123
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 203.44582
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 81.115036
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 125.273605
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1 &1699397993
 GameObject:
   m_ObjectHideFlags: 0
@@ -62170,6 +62900,63 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 185160433139728343, guid: 60770bdb4dc667c45bea53db0339dc05, type: 3}
   m_PrefabInstance: {fileID: 58295565}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1705926978
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 232.23845
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 58.352684
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 128.6929
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1001 &1714274530
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -65081,6 +65868,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1791016823}
   m_Mesh: {fileID: 4300000, guid: 361dbd13abe581240910f764f838d930, type: 3}
+--- !u!1001 &1801247983
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 210.30727
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 74.1298
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 141.02765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1001 &1804873739
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -65925,6 +66769,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1822292418}
   m_Mesh: {fileID: 4300000, guid: 08370ae33fad3da4a8357631f8a9f5ae, type: 3}
+--- !u!1001 &1822355835
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 219.37114
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 64.70203
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.32634
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1 &1825978744
 GameObject:
   m_ObjectHideFlags: 0
@@ -68399,7 +69300,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -69373,7 +70274,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3034164263601928049, guid: be80d50d0d361d74abab1f4807a90fd0, type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 3034164263601928049, guid: be80d50d0d361d74abab1f4807a90fd0, type: 3}
       propertyPath: m_LocalScale.x
@@ -69464,6 +70365,63 @@ CapsuleCollider:
   m_Height: 0.016312528
   m_Direction: 1
   m_Center: {x: -0.000060920145, y: -0.000106675085, z: -0.00000018486574}
+--- !u!1001 &1967417373
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 246.97289
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 57.84187
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 117.1959
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1001 &1968001011
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -70278,7 +71236,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 927757868155282109, guid: 1e0055adb87f7244bade1f7cec5e1baf, type: 3}
       propertyPath: m_RootOrder
-      value: 19
+      value: 44
       objectReference: {fileID: 0}
     - target: {fileID: 927757868155282109, guid: 1e0055adb87f7244bade1f7cec5e1baf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -70554,7 +71512,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 36
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -71434,7 +72392,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 37
       objectReference: {fileID: 0}
     - target: {fileID: 2406822248579021368, guid: e9cd62fe9c6ae2846a2fe8c7eb86a834, type: 3}
       propertyPath: m_LocalPosition.x
@@ -72207,6 +73165,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2208419826181695226, guid: 849a5190185df9748a5e6de282d461b4, type: 3}
   m_PrefabInstance: {fileID: 2052137743}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2055742397
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011449246696, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_Name
+      value: Minerai de Fer - Copy (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 249.59637
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 64.947426
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 94.241844
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000021855696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.220446e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 4.8529394e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000013097492628, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a6fdb7728540a64491a969282927aff, type: 3}
 --- !u!1001 &2055847092
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -72397,7 +73412,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1141747130982325690, guid: 36183a80b7256a5468759e7432e631de, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 1141747130982325690, guid: 36183a80b7256a5468759e7432e631de, type: 3}
       propertyPath: m_LocalPosition.x
