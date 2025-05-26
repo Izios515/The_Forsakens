@@ -699,7 +699,7 @@ GameObject:
   - component: {fileID: 8179159824860124243}
   - component: {fileID: 5271716694898096766}
   - component: {fileID: 6571751871597729595}
-  - component: {fileID: 845634911}
+  - component: {fileID: 4324182216157626212}
   m_Layer: 8
   m_Name: Dark mouton
   m_TagString: AI
@@ -733,8 +733,8 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1715811141596451284}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 37ab5ee15ddf4eb4d85c2d2b26fc8276, type: 3}
-  m_Controller: {fileID: 9100000, guid: 1215e98cc02a91340b3a9af5af091f14, type: 2}
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 241c16f99f8095648b3142571245a82c, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
@@ -779,7 +779,7 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0.6, z: 0}
---- !u!114 &845634911
+--- !u!114 &4324182216157626212
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -788,14 +788,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1715811141596451284}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 550ca59054ac4c441a3a0a3bfe88c270, type: 3}
+  m_Script: {fileID: 11500000, guid: a0ae1e7f40473684481fa8b3fcf41873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   agent: {fileID: 5271716694898096766}
   animator: {fileID: 8179159824860124243}
   audioSource: {fileID: 0}
   maxHealth: 60
-  currentHealth: 0
   walkSpeed: 1
   chaseSpeed: 0
   detectionRadius: 0
@@ -804,11 +803,9 @@ MonoBehaviour:
   damageDealt: 0
   rotationSpeed: 3
   wanderingWaitTimeMin: 3
-  wanderingWaitTimeMax: 5
+  wanderingWaitTimeMax: 6
   wanderingDistanceMin: 4
   wanderingDistanceMax: 8
-  destroyDelay: 0
-  lootings: []
 --- !u!1 &1844323819298643494
 GameObject:
   m_ObjectHideFlags: 0

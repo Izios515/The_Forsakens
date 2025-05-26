@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 4850033430498745045}
   - component: {fileID: -502035245977547390}
   - component: {fileID: -5345555750075288163}
-  - component: {fileID: 4393006114135260953}
   m_Layer: 6
   m_Name: Bandage
   m_TagString: Item
@@ -115,16 +114,3 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &4393006114135260953
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6363089042611518208}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 617eab301ccd55b47a73707f02f3ddb6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemData: {fileID: 11400000, guid: 1c7d679917858d845a426f1d464c03e0, type: 2}

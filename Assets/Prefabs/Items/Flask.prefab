@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 6546832892208866272}
   - component: {fileID: 3337617861164127345}
   - component: {fileID: 3723924906281460764}
-  - component: {fileID: 6850797686014938839}
   m_Layer: 6
   m_Name: Flask
   m_TagString: Item
@@ -115,16 +114,3 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &6850797686014938839
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4745661115560378933}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 617eab301ccd55b47a73707f02f3ddb6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemData: {fileID: 11400000, guid: 929f8b3a8cb3e914593880bd90b75c20, type: 2}

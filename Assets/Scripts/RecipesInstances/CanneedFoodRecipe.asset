@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ab95c1576ddbd149bd53930112bef99, type: 3}
+  m_Name: CanneedFoodRecipe
+  m_EditorClassIdentifier: 
+  craftableItem: {fileID: 11400000, guid: 7ab23ae44ce24394d9ee6a3102a0ce96, type: 2}
+  requiredItems:
+  - itemData: {fileID: 11400000, guid: ead44a4fd84462e40a0e772580c3d622, type: 2}
+    count: 2

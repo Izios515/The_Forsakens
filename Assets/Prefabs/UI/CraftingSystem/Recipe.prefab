@@ -168,6 +168,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   item: {fileID: 0}
   itemVisual: {fileID: 0}
+  countText: {fileID: 0}
   itemActionsSystem: {fileID: 0}
 --- !u!1 &2601141412277302037
 GameObject:
@@ -293,8 +294,8 @@ MonoBehaviour:
   elementRequiredPrefab: {fileID: 3225818489428949646, guid: 88f2a333358671c4da803b58f8927a73, type: 3}
   elementsRequiredParent: {fileID: 2601141412418244815}
   craftButton: {fileID: 4087573143489656295}
-  canBuildIcon: {fileID: 21300000, guid: 6f76be1fcdf22134fbc04b246bc4516e, type: 3}
-  cantBuildIcon: {fileID: 21300000, guid: a205de0f91043d241b1d5114c0fccf6a, type: 3}
+  canBuildIcon: {fileID: 21300000, guid: 70fa5f1ecab5e324685c610146b2c075, type: 3}
+  cantBuildIcon: {fileID: 21300000, guid: 681a6f6fab5a6fc42b1c630968efdf65, type: 3}
   missingColor: {r: 1, g: 0.12941177, b: 0.16078432, a: 1}
   availableColor: {r: 0.1882353, g: 1, b: 0.13725491, a: 1}
 --- !u!1 &2601141412418244812
@@ -330,9 +331,9 @@ RectTransform:
   m_Father: {fileID: 2601141412277302036}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 181.2, y: -60.0453}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 181.2, y: 0}
   m_SizeDelta: {x: 0, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2601141412418244814
@@ -518,7 +519,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6f76be1fcdf22134fbc04b246bc4516e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 70fa5f1ecab5e324685c610146b2c075, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

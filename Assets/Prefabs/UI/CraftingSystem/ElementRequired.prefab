@@ -249,8 +249,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 0}
-  itemVisual: {fileID: 0}
-  countText: {fileID: 0}
+  itemVisual: {fileID: 3225818489428949644}
+  countText: {fileID: 1571719610644276310}
   itemActionsSystem: {fileID: 0}
 --- !u!114 &6996704609335055343
 MonoBehaviour:
